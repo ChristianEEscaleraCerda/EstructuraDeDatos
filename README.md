@@ -1,2 +1,2 @@
 # EstructuraDeDatos
-DataStructure Projects
+DataStructure school projects
